@@ -1,4 +1,6 @@
 <html>
+<meta charset="UTF-8">
+<title>基础标签</title>
 <body>
 <!-- 采用标题 1 - 6 来输出文本-->
 
